@@ -1,0 +1,12 @@
+h1 {
+    color:  rgb(209, 86, 86);
+   }
+   .header{
+   display:flex;
+   background-color: black;
+   justify-content: space-evenly;
+   
+   }
+   .menu{
+       color:lightseagreen  
+   }
